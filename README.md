@@ -20,4 +20,32 @@ For verify, open terminal git: 'Ctrl + `'
 Put 'git remote -v'
 If you see like 'origin  https://github.com/<your-username>/DevOps-TaskName.git' - You connected
 
-If error like 'fatal: not a git repository (or any of the parent directories): .git' - You should:
+If error like 'fatal: not a git repository (or any of the parent directories): .git' - You should open your project from your Project Directory (File -> Open Folder -> Choose your folder for git)
+
+4. Create `.gitignore` file.
+.gitignore is a file that tells Git which files NOT to upload.
+
+4.1 Creating '.gitignore' file:
+
+In VS Code Explorer panel:
+File -> New File
+
+Name it exactly:
+'.gitignore'
+
+Add content to .gitignore
+
+I use settings like this:
+
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+5. Create branch
