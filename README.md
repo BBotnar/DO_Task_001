@@ -38,14 +38,33 @@ Add content to .gitignore
 I use settings like this:
 
 
-# VS Code settings
+
+### VS Code settings
 .vscode/
 
-# Logs
+### Logs
 *.log
 
-# Temporary files
+## Temporary files
 *.tmp
 *.swp
 
-5. Create branch
+5. Create new branch
+Or just remain current branch 'main'
+
+6. You will need a `UNIX-like OS`  for further tasks, so you (and i) have to install it.
+
+The most commonly used OS is `Ubuntu 24.04`, but you can choose any other `UNIX-OS` 
+I used ubuntu
+6.1 go to https://www.virtualbox.org/wiki/Downloads
+Download VirtualBox for Windows (if you youse Windows like me)
+Click “Windows hosts” - install it
+
+6.2 Download Ubuntu 24.04 ISO
+Go here:
+https://ubuntu.com/download/desktop , and download .iso file for virtual box
+
+6.3 Create a new Virtual Machine in VirtualBox and configure it
+My configuration:
+![alt text](image-3.png)
+
