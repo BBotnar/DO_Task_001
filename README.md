@@ -12,6 +12,8 @@ Press combination Ctrl + Shift + P
 Choose 'Git:Clone'
 Select Clone from GitHub
 ![alt text](image-2.png)
+![Repository creation](screenshots/image-2.png)
+
 Choose repository, Choose folder on your PC
 Click Open repository
 VS Code is now connected to GitHub
@@ -67,5 +69,4 @@ https://ubuntu.com/download/desktop , and download .iso file for virtual box
 6.3 Create a new Virtual Machine in VirtualBox and configure it
 My configuration:
 ![alt text](image-3.png)
-
-![Repository creation](screenshots/repo.png)
+![Repository creation](screenshots/image-3.png)
