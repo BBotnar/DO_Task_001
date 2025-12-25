@@ -68,3 +68,4 @@ https://ubuntu.com/download/desktop , and download .iso file for virtual box
 My configuration:
 ![alt text](image-3.png)
 
+![Repository creation](screenshots/repo.png)
