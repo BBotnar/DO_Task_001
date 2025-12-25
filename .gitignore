@@ -8,5 +8,4 @@
 *.tmp
 *.swp
 
-traefik.yml
 .env
