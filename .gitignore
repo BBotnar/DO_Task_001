@@ -8,5 +8,5 @@
 *.tmp
 *.swp
 
+~/backup/
 .env
-.env/
