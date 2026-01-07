@@ -26,4 +26,3 @@ ls -t "$BACKUP_DIR"/*.tar.gz | tail -n +$((MAX+1)) | xargs rm -f
 for ((i=1; i<=MAX_RUNS; i++)); do
   ./backup.sh
 done
-
